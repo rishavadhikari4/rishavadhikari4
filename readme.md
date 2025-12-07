@@ -16,9 +16,6 @@
 - 💻 **Coding Interests**  
   I love working on:
   - Web Development (React, Node.js)
-  - Mobile Apps (Flutter, Android)
-  - Data Science & Machine Learning
-  - Open Source Projects
 
 - 🔥 **GitHub Streaks**
   <p align="center">
